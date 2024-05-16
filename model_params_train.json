@@ -1,0 +1,18 @@
+{
+    "timestep": 200,
+    "maximum_steps": 1000,
+    "epochs": 3,
+    "model_alpha": 0.2,
+    "model_gamma": 0.5,
+    "model_epsilon": 0.8,
+    "min_power": 50,
+    "max_power": 400,
+    "interval_power": 25,
+    "min_speed": 750,
+    "max_speed": 3000,
+    "interval_speed": 225,
+    "min_hatch": 0.0375,
+    "max_hatch": 0.150,
+    "interval_hatch": 0.0125,
+    "store_data": "True"
+}

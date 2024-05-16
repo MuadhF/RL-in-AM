@@ -1,0 +1,9 @@
+{
+    "timestep": 200,
+    "maximum_steps": 1000,
+    "epochs": 2,
+    "model_alpha": 0.2,
+    "model_gamma": 0.5,
+    "model_epsilon": 0.8,
+    "store_data": "True"
+}
